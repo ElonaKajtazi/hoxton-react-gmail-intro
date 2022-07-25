@@ -1,4 +1,5 @@
 import "../styles/left-menu.css";
+import LeftMenuLabel from "./LeftMenuLabel";
 
 function LeftMenu() {
   return (
@@ -13,10 +14,7 @@ function LeftMenu() {
           <span className="count">2</span>
         </li>
 
-        <li className="item toggle">
-          <label htmlFor="hide-read">Hide read</label>
-          <input id="hide-read" type="checkbox" checked={false} />
-        </li>
+        <LeftMenuLabel />
       </ul>
     </nav>
   );
