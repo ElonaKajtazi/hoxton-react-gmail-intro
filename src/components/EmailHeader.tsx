@@ -1,3 +1,4 @@
+import"../styles/email-header.css"
 import backArrow from "../assets/icons/back-arrow.png";
 
 import rateStarButton from "../assets/icons/rate-star-button.png";
