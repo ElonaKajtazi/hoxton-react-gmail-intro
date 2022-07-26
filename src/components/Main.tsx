@@ -1,4 +1,4 @@
-import "../styles/Main.css";
+import "../styles/main.css";
 
 import EmailTitle from "./MainEmailTitle";
 import EmailHeadr from "./EmailHeader";
