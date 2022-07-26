@@ -2,7 +2,7 @@ import "./App.css";
 
 
 import Header from "./components/Header";
-import LeftMenu from "./components/Left-menu";
+import LeftMenu from "./components/LeftMenu";
 import Main from "./components/Main";
 
 function App(): JSX.Element {

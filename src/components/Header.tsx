@@ -1,5 +1,5 @@
 import "../styles/header.css";
-import HeaderLeftMenu from "./HeaderLeft";
+import HeaderLeftMenu from "./HeaderLeftMenu";
 import HeaderSearchBar from "./HeaderSearchBar";
 function Header() {
   return (
